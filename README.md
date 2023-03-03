@@ -1,13 +1,18 @@
 # ParallelMatrixComputation
 University project of Operative Systems course
 
-## Traccia
-Sia data una matrice quadrata A[N]x[N], contenente valori reali. <br>
-Definiamo «intorno» di A[i][j] la sottomatrice di A di dimensione 3X3 che ha A[i][j] nella posizione centrale. <br>
-Si vuole calcolare una matrice B[N]x[N] tale che B[i][j] è il massimo tra i valori degli elementi che appartengono all’intorno di A[i][j]. <br>
-Si supponga che la matrice sia molto grande (N ≥2000). <br>
-Realizzare la soluzione usando MPI e OMP, dividendo il lavoro in P thread. <br>
-P e N devono essere parametrici <br>
-
-## Risultati
-Sono consultabili nel Power Point.
+![Slide1](https://user-images.githubusercontent.com/74262020/222673023-6656f407-e393-4203-a47a-4da17b29031f.JPG)
+![Slide2](https://user-images.githubusercontent.com/74262020/222673062-2c95bcc1-f788-41bc-bda7-632eca017739.JPG)
+![Slide3](https://user-images.githubusercontent.com/74262020/222673083-a6d2e079-0022-4bc0-bbae-e1eb251a12d7.JPG)
+![Slide4](https://user-images.githubusercontent.com/74262020/222673085-ea20c5ee-f50e-451a-af71-5a1094057de2.JPG)
+![Slide5](https://user-images.githubusercontent.com/74262020/222673090-b9370ca4-85a7-4256-b5d7-4bb909138dc1.JPG)
+![Slide6](https://user-images.githubusercontent.com/74262020/222673095-5cbe4581-a7f8-4b3c-a873-3e8e6dda9592.JPG)
+![Slide7](https://user-images.githubusercontent.com/74262020/222673097-07c13dd6-69c6-49a7-a96e-6dc5dd023f6f.JPG)
+![Slide8](https://user-images.githubusercontent.com/74262020/222673098-870657a7-3e0e-46f7-8bb5-687f06157802.JPG)
+![Slide9](https://user-images.githubusercontent.com/74262020/222673101-7c4c5511-0b4b-4215-bc25-d266e0200cd5.JPG)
+![Slide10](https://user-images.githubusercontent.com/74262020/222673104-6d3ad1eb-8346-4df9-85b3-ffdd2111336b.JPG)
+![Slide11](https://user-images.githubusercontent.com/74262020/222673108-716d889f-b09b-42f2-a49b-7046af3fab8f.JPG)
+![Slide12](https://user-images.githubusercontent.com/74262020/222673111-25b5e9ad-2c0f-4445-a137-6720c7392608.JPG)
+![Slide13](https://user-images.githubusercontent.com/74262020/222673115-c114cebc-591d-40da-a6df-cb057e0186b9.JPG)
+![Slide14](https://user-images.githubusercontent.com/74262020/222673120-93d94470-aaef-4ea4-99b3-b890c2718597.JPG)
+![Slide15](https://user-images.githubusercontent.com/74262020/222673125-360fe305-9db1-46f6-8b5e-9c52addaa0be.JPG)
